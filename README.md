@@ -59,7 +59,7 @@ Sprunki InCrediBox is a browser-based music creation game inspired by InCrediBox
 7. **What inspired Sprunki InCrediBox?** It's inspired by the popular music game InCrediBox.
 8. **Where can I learn more about Spunky Games?**  Visit their official website: [https://spunky.games](https://spunky.games).
 9. **Is there a mobile app for Sprunki InCrediBox?**  While a dedicated app might not exist, you can access the game through your mobile browser.
-10. **Who developed Sprunki InCrediBox and how can I contact them?**  Developer information and contact details might be available on the game's website or related resources. You might also find related information on the [ESprunki Game](https://esprunki.com/) website. For a similar experience, check out [Sprunki Sprunbox](https://sprunkiretake.org/sprunki-sprunbox).
+10. **Who developed Sprunki InCrediBox and how can I contact them?**  Developer information and contact details might be available on the game's website or related resources. You might also find related information on the [ESprunki Game](https://esprunki.com/) website. For a similar experience, check out [Sprunki Sprunbox](https://sprunkiretake.org/).
 
 ---
 
