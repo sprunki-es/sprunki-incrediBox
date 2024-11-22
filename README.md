@@ -1,6 +1,6 @@
 # Sprunki InCrediBox
 
-Sprunki InCrediBox is a free online music game that lets you create unique beats and melodies with a fun, drag-and-drop interface.  Experiment with different sound combinations, record your mixes, and share your creations with the world. Play Sprunki InCrediBox Now: [https://sprunkiy.com/](https://sprunkiy.com/)
+Sprunki InCrediBox is a free online music game that lets you create unique beats and melodies with a fun, drag-and-drop interface.  Experiment with different sound combinations, record your mixes, and share your creations with the world. Play [Sprunki InCrediBox](https://sprunkiy.com/)
 
 ---
 
@@ -21,7 +21,7 @@ Sprunki InCrediBox is a browser-based music creation game inspired by InCrediBox
 
 ## How to Play Sprunki InCrediBox
 
-1. **Launch the Game:** Visit [https://sprunkiy.com/](https://sprunkiy.com/) to start playing immediately in your browser.
+1. **Launch the Game:** Visit Sprunki InCrediBox to start playing immediately in your browser.
 2. **Select Your Characters:**  Drag and drop the unique Sprunki characters onto the stage. Each character represents a different sound or musical loop.
 3. **Combine Sounds:** Experiment by combining different characters to create your custom beats and melodies.  Try different rhythms and combinations.
 4. **Record Your Mix:** Use the recording feature to capture your musical creations once you're happy with them.
@@ -57,10 +57,10 @@ Sprunki InCrediBox is a browser-based music creation game inspired by InCrediBox
 5. **Is it possible to save my mixes?**  Saving options might vary depending on the platform; typically, you can save locally or potentially via online accounts.
 6. **Does Sprunki InCrediBox have different levels or stages?** The game might feature progression through unlocking new sounds and characters.  Check the game itself for details.
 7. **What inspired Sprunki InCrediBox?** It's inspired by the popular music game InCrediBox.
-8. **Where can I learn more about Spunky Games?**  Visit their official website: [https://spunky.games](https://spunky.games).
+8. **Where can I learn more about Spunky Games?**  Visit their official website: [spunky.games](https://spunky.games).
 9. **Is there a mobile app for Sprunki InCrediBox?**  While a dedicated app might not exist, you can access the game through your mobile browser.
 10. **Who developed Sprunki InCrediBox and how can I contact them?**  Developer information and contact details might be available on the game's website or related resources. You might also find related information on the [ESprunki Game](https://esprunki.com/) website. For a similar experience, check out [Sprunki Sprunbox](https://sprunkiretake.org/).
 
 ---
 
-Start creating your own Sprunky beats today! Play Sprunki InCrediBox now: [https://sprunkiy.com/](https://sprunkiy.com/)
+Start creating your own Sprunky beats today! Play Sprunki InCrediBox now.
